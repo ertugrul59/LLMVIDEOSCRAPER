@@ -1,0 +1,5 @@
+.vscode/
+venv/
+recordings*
+.env
+__pycache__/
